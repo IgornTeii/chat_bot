@@ -1,5 +1,19 @@
+# Rider
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# .NET
 bin/
 obj/
-/packages/
-riderModule.iml
-/_ReSharper.Caches/
+*.pdb
+*.log
+*.xml
+*.cache
+*.dll
+*.exe
+*.dbmdl
+*.config
+*.vs/
